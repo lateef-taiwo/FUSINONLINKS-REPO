@@ -1,2 +1,2 @@
 # FUSINONLINKS-REPO
-This repository contains steps to automate daily IT administration tasks and is useful for Cloud and DevOps Engineers 
+This repository was created to teach Students of Fusionlinks Solutions how to use Git and GitHub as part of the Cloud and DevOps course
